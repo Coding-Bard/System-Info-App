@@ -1,0 +1,14 @@
+{
+  "name": "electronintro",
+  "version": "1.0.0",
+  "description": "Simple system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Milos Kostic",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.1.4"
+  }
+}
